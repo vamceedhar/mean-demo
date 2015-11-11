@@ -1,3 +1,5 @@
-#Source for MEAN SF Developers Talk
+#Source for MEAN demo
 
-https://www.youtube.com/watch?v=AEE7DY2AYvI
+http://blog.sandeepdinesh.com/search?q=MEAN
+
+Forked from https://github.com/mikemoser/mean-demo
