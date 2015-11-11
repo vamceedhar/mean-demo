@@ -18,6 +18,6 @@ app.use('/js', express.static(__dirname + '/client/js'));
 app.get('/api/meetups', meetupsController.list);
 app.post('/api/meetups', meetupsController.create);
 
-app.listen(3000, function() {
+app.listen((process.env.PORT || 3000), function() {
   console.log('I\'m Listening...');
 })
