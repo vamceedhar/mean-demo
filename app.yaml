@@ -13,14 +13,3 @@
 
 runtime: nodejs
 vm: true
-api_version: 1
-
-skip_files:
- - ^(.*/)?#.*#$
- - ^(.*/)?.*~$
- - ^(.*/)?.*\.py[co]$
- - ^(.*/)?.*/RCS/.*$
- - ^(.*/)?\..*$
- - ^(.*/)?.*/node_modules/.*$
- - ^(.*/)?.*\.log$
-
